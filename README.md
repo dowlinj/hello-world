@@ -1,2 +1,2 @@
 # hello-world
-Test repo for initial GitHub setup
+Testing out GitHub's commit features...first time usage!
